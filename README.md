@@ -45,8 +45,20 @@ CryptoBot supports a wide variety of trading approaches:
 - Portfolio rebalancing
 - Capital allocation rules
 
-## 📦 Installation
+## 📦 Download
 
 Download the latest release here:
 
 👉 [Download CryptoBot (ZIP)](https://github.com/pavloaser23/cryptobot/releases/tag/cryptobot)
+
+## ⚙️ Installation
+
+1. Download the release archive  
+2. Extract files  
+3. Run the installer  
+4. Follow the setup instructions  
+5. Launch CryptoBot
+
+## ⚠️ Disclaimer
+
+Cryptocurrency trading involves high financial risk. Users are fully responsible for their actions.
