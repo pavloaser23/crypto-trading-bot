@@ -51,8 +51,6 @@ Once started, CryptoBot trades automatically based on your selected strategy.
 ### 🔐 Accounts
 
 * Exchange account (e.g. Binance, Bybit)
-  
-  **or**
 * Crypto wallet (e.g. MetaMask, Trust Wallet)
 
 ---
