@@ -3,7 +3,6 @@
 ## App not starting
 
 * Run as administrator
-* Disable antivirus
 * Reinstall
 
 ---
