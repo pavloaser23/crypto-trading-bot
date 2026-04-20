@@ -19,9 +19,9 @@ CryptoBot is a Windows-based executable application for automated cryptocurrency
 
 The dashboard gives a quick overview of system status and trading performance.
 
-```md id="sc_dash"
+
 ![Dashboard](screenshots/dashboard.png)
-```
+
 
 **Includes:**
 
@@ -36,9 +36,9 @@ The dashboard gives a quick overview of system status and trading performance.
 
 The trading panel is used to monitor and execute trades in real time.
 
-```md id="sc_trade"
+
 ![Trading](screenshots/trading.png)
-```
+
 
 **Includes:**
 
@@ -53,9 +53,9 @@ The trading panel is used to monitor and execute trades in real time.
 
 Analytics provide insight into trading performance and strategy effectiveness.
 
-```md id="sc_analytics"
+
 ![Analytics](screenshots/analytics.png)
-```
+
 
 **Includes:**
 
