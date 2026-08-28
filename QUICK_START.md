@@ -6,7 +6,7 @@ This guide covers downloading the application, connecting a cryptocurrency excha
 
 ## 1. Download CryptoBot
 
-Download the latest version from the [GitHub Releases](https://github.com/pavloaser23/cryptobot/releases).
+Download the latest version from the [GitHub Releases](https://github.com/pavloaser23/crypto-trading-bot/releases).
 
 Choose the latest release and download the application archive.
 
