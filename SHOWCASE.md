@@ -8,8 +8,6 @@ CryptoBot is a Windows application for **automated cryptocurrency trading**, wit
 
 The main dashboard provides an overview of the current trading session and account activity.
 
-![CryptoBot Dashboard](screenshots/dashboard.png)
-
 The dashboard includes:
 
 * Account balance
@@ -22,8 +20,6 @@ The dashboard includes:
 ## Trading Panel
 
 The trading panel is used to monitor market conditions and manage trade execution in real time.
-
-![CryptoBot Trading Panel](screenshots/trading.png)
 
 It provides access to:
 
@@ -39,8 +35,6 @@ The trading panel is designed to keep market information, trading signals, and e
 ## Analytics
 
 The analytics section is used to review trading activity and evaluate strategy performance.
-
-![CryptoBot Analytics](screenshots/analytics.png)
 
 It includes:
 
