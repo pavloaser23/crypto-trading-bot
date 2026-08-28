@@ -6,7 +6,7 @@ This guide explains how to install **CryptoBot on Windows**, connect a cryptocur
 
 CryptoBot is distributed as a Windows application.
 
-1. Download the latest `.zip` archive from the [Releases](https://github.com/pavloaser23/cryptobot/releases) page.
+1. Download the latest `.zip` archive from the [Releases](https://github.com/pavloaser23/crypto-trading-bot/releases) page.
 
 2. Extract the archive to a local folder.
 
