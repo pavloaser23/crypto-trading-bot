@@ -1,86 +1,105 @@
-# 🤖 CryptoBot Showcase
+# CryptoBot Showcase
 
-This document presents the visual interface and workflow of **CryptoBot**.
+A quick look at the CryptoBot interface and the main parts of the trading workflow.
 
----
+CryptoBot is a Windows application for **automated cryptocurrency trading**, with tools for monitoring markets, managing strategies, executing trades, and analyzing trading performance.
 
-## 🖥️ Application Overview
+## Dashboard
 
-CryptoBot is a Windows-based executable application for automated cryptocurrency trading.
+The main dashboard provides an overview of the current trading session and account activity.
 
-* No installation complexity
-* Fast execution
-* Real-time monitoring
-* Designed for practical trading usage
+![CryptoBot Dashboard](screenshots/dashboard.png)
 
----
+The dashboard includes:
 
-## 📊 Dashboard
-
-The dashboard gives a quick overview of system status and trading performance.
-
-
-![Dashboard](screenshots/dashboard.png)
-
-
-**Includes:**
-
-* Balance overview
-* Active trades
-* Strategy status
+* Account balance
+* Active positions and trades
+* Current strategy
+* Trading status
 * Performance charts
+* Market information
 
----
+## Trading Panel
 
-## 💹 Trading Panel
+The trading panel is used to monitor market conditions and manage trade execution in real time.
 
-The trading panel is used to monitor and execute trades in real time.
+![CryptoBot Trading Panel](screenshots/trading.png)
 
+It provides access to:
 
-![Trading](screenshots/trading.png)
-
-
-**Includes:**
-
-* Live orders
+* Live market data
+* Open orders
 * Entry and exit signals
-* Market data feed
+* Trade execution
+* Order status
 * Execution logs
 
----
+The trading panel is designed to keep market information, trading signals, and execution activity in one place.
 
-## 📈 Analytics
+## Analytics
 
-Analytics provide insight into trading performance and strategy effectiveness.
+The analytics section is used to review trading activity and evaluate strategy performance.
 
+![CryptoBot Analytics](screenshots/analytics.png)
 
-![Analytics](screenshots/analytics.png)
+It includes:
 
-
-**Includes:**
-
-* Profit / Loss charts
+* Profit and loss
 * Trade history
+* Performance charts
 * Backtesting results
-* Performance metrics
+* Trading statistics
+* Strategy performance
 
----
+These tools can be used to compare trading strategies and review historical results before running a strategy with live funds.
 
-## ⚙️ Configuration
+## Configuration
 
-CryptoBot supports flexible configuration:
+CryptoBot provides configuration options for the trading engine, strategies, exchanges, and risk management.
 
-* Strategy selection
+Available settings include:
+
+* Trading strategy
+* Market and timeframe
 * Risk parameters
-* Exchange setup
-* Trading behavior tuning
+* Stop-loss and take-profit
+* Trailing stop
+* Exchange connection
+* Trading behavior
+* Strategy parameters
 
----
+## Trading Workflow
 
-## 🚀 Workflow
+A typical CryptoBot workflow looks like this:
 
-1. Launch `CryptoBot.exe`
-2. Configure API keys
-3. Select a strategy
-4. Adjust risk settings
-5. Start trading
+```text
+Launch CryptoBot
+      ↓
+Connect an exchange or Web3 wallet
+      ↓
+Select a trading strategy
+      ↓
+Configure strategy parameters
+      ↓
+Set risk management rules
+      ↓
+Monitor market data
+      ↓
+Start automated trading
+      ↓
+Review trades and performance
+```
+
+## Exchange & Wallet Connections
+
+CryptoBot can connect to supported cryptocurrency exchanges through API integrations and to supported Web3 wallets through wallet authorization.
+
+Exchange connections are used for centralized cryptocurrency trading, while wallet connections can be used for Web3 and on-chain trading.
+
+See [QUICK_START.md](QUICK_START.md) for connection and setup instructions.
+
+## Screenshots
+
+All screenshots in this document are taken from the CryptoBot application and show the main areas of the trading interface.
+
+More screenshots and interface examples can be added as the application evolves.
