@@ -149,7 +149,7 @@ This makes the project suitable for experimenting with:
 
 The latest release is available here:
 
-[Download CryptoBot](https://github.com/pavloaser23/crypto-trading-bot/releases/tag/cryptobot)
+[Download CryptoBot](https://github.com/pavloaser23/crypto-trading-bot/releases/tag/main)
 
 ## Project Status
 
