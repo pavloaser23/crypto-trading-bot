@@ -1,6 +1,6 @@
 # CryptoBot
 
-CryptoBot is an open-source **cryptocurrency trading bot** for automated and algorithmic trading. It is designed to analyze crypto market data, generate trading signals, execute orders, and manage positions using configurable trading strategies.
+CryptoBot is an **cryptocurrency trading bot** for automated and algorithmic trading. It is designed to analyze crypto market data, generate trading signals, execute orders, and manage positions using configurable trading strategies.
 
 The project supports technical analysis, automated trading, backtesting, risk management, and custom strategy development. It can be used to experiment with cryptocurrency trading strategies, analyze historical market data, and automate trading workflows.
 
